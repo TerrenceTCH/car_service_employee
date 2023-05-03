@@ -1063,7 +1063,7 @@ class _MechanicBookingDetailsPageState extends State<MechanicBookingDetails> {
         'to': '${customer.token.trim()}'
       };
 
-      String serverKey = 'AAAAluPopVY:APA91bGf5CmXSPzlNezzHsSkPyRJC1_0_j9dSDT61RKtyKi9kITp_w7D9cA9S-Oa_ho4aqLe34xDKqrwIcPf-MaRSk9oexloeJm_1v19g1bvh28iM4ugQSf31zmKfY7_ngY_BUNlW5JG';
+      String serverKey = '';
       // Send the message using the FirebaseMessaging API.
       final response = await http.post(
         Uri.parse('https://fcm.googleapis.com/fcm/send'),
