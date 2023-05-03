@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "648068769110",
+    "project_id": "cardays-service",
+    "storage_bucket": "cardays-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648068769110:android:2eb6789b9e91d8016fe2f7",
+        "android_client_info": {
+          "package_name": "com.example.car_days_employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648068769110-qc95cqt2rg8b63u3klsue7rpa5v9uld4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTM_I2gxB_KN9WDYqhydrjNAQpxQb2qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648068769110-qc95cqt2rg8b63u3klsue7rpa5v9uld4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648068769110:android:1acd391c7fc19f136fe2f7",
+        "android_client_info": {
+          "package_name": "com.utar.car_service_management_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648068769110-qc95cqt2rg8b63u3klsue7rpa5v9uld4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTM_I2gxB_KN9WDYqhydrjNAQpxQb2qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648068769110-qc95cqt2rg8b63u3klsue7rpa5v9uld4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
